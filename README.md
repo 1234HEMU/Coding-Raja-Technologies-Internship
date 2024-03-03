@@ -1,4 +1,4 @@
-![image](https://github.com/1234HEMU/Coding-Raja-Technologies-Internship/assets/161996507/6e59368c-89d4-44e1-9c4e-e56643a3e684)# Coding-Raja-Technologies-Internship
+**Coding Raja Technologies Intership under Machine Learning**
 
 During my internship, I led two Python-based projects: "Sentiment Analysis on Social Media Data" and "Image Classification for Food Recognition." These projects demonstrate my expertise in machine learning, showcasing practical applications to analyze sentiment trends on social media and accurately classify food images, addressing real-world challenges in the respective domains.
 
